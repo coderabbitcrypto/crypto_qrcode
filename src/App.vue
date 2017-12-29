@@ -1,16 +1,16 @@
 <template>
   <div id="app">
-    <HelloWorld/>
+    <CryptoQRCode/>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld'
+import CryptoQRCode from './components/CryptoQRCode'
 
 export default {
   name: 'app',
   components: {
-    HelloWorld
+    CryptoQRCode
   }
 }
 </script>

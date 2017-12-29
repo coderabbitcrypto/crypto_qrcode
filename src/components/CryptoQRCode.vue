@@ -39,10 +39,9 @@
 
 <script>
 export default {
-  name: 'HelloWorld',
+  name: 'CryptoQRCode',
   data () {
     return {
-      msg: 'Welcome to Your Vue.js App',
       img: null,
       coin_addr: "",
       coin_amount: "",
