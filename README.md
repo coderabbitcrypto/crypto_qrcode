@@ -25,6 +25,4 @@ BTC: 1KB8hWAKPwBwW8PegdUVLzshDVKeqNJvys
 
 ETH: 0xF2361A25C6958C685987aC6323e97E61b77ba0e9
 
-DASH: 0xF2361A25C6958C685987aC6323e97E61b77ba0e9
-
-Steem: @coderabbitcrypto
+Steem: https://steemit.com/@coderabbitcrypto
