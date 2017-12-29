@@ -20,4 +20,7 @@ export default {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+#frm-data{
+    line-height: 4.4rem;
+}
 </style>
