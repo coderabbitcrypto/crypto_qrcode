@@ -29,7 +29,7 @@
           </fieldset>
         </div>
         <div class="form-group">
-          <button class="btn btn-success" v-on:click="makeQrCode"><i class="fa fa-search"></i>&nbsp;&nbsp;&nbsp;Check Balances</button>
+          <button class="btn btn-success" v-on:click="makeQrCode"><i class="fa fa-qrcode"></i>&nbsp;&nbsp;&nbsp;Generate QR Code</button>
         </div>
       </div>
     </div>
